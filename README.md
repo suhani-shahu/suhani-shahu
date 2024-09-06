@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhani-shahu
-- 👀 I’m interested in coding as well as new projects.
+- 👀 I’m interested in coding .
 - 🌱 I’m currently learning java.
 
 
