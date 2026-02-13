@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhani Shahu</h1>
-<h3 align="center">Final Year BTech Student | C/C++ Developer | Tech Enthusiast</h3>
+<h3 align="center">Final Year BTech Student | Tech Enthusiast</h3>
 
-- 🎓 I'm a Computer Engineering student**  
+- 🎓 I'm a Computer Engineering student
 - 🏫 Studying at **Shrimati Radhikatai Pandav College of Engineering**  
 - 💡 I’m passionate about **problem-solving**, **technology**, and **project development**  
 - 💻 Skilled in **C** and **C++** programming  
